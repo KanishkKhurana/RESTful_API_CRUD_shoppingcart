@@ -3,3 +3,5 @@ this REPO contains a shopping cart created using Python , Django and mongoDB. th
 
 superuser id- admin.
 superuser pwd- admin.
+
+
